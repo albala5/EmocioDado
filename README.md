@@ -4,7 +4,7 @@
 
 ## EMOCIODADO - CUBO DE LAS EMOCIONES
 
-1. INTRODUCCIÓN
+## INTRODUCCIÓN
 
 La sociedad actual, mas que en cualquier época, exige una eduacción integral de los futuros ciudadanos y ciudadanas.
 Así, el sistema eduacativo pretende formar de manera integral a su alumnado. Muchos aspectos de esta educación estan asegurados en nuestro sistema aunque otros, como la competencia socioemocional, no estan del todo sistematizados e integrados en la educación que recibe el alumnado.
@@ -13,7 +13,7 @@ Además, pretendemos que el alumnado ponga en valor la filosofía de "lo libre" 
 Por último, también pretendemos introducirles en una herramienta de edición de imágenes y la utilización de un dispositivo móvil en clase.
 
 
-2. OBJETIVOS
+## OBJETIVOS
 
 Identificar al alumnado del aula.
 Gestionar las emociones. El alumno aprenderá a identificar las emociones a través de los gestos faciales más característicos de cada emoción, además de nombrarlas e identificarlas en otra persona.
@@ -22,7 +22,7 @@ Aprender a manejar GIMP.
 Introducir el uso de un dispositivo móvil en clase.
 
 
-3. METODOLOGÍA
+## METODOLOGÍA
 
 El EmocioDado es un cubo de emociones, en el que cada cara representa la imagen del propio alumno o alumna expresando una emoción. Así nuestro fin es que nuestro alumnado, construya un cubo con su propio rostro expresando seis emociones.
 
@@ -43,20 +43,20 @@ Una vez creado podemos utilizarlo diariamente para trabajar las emociones. Para 
 Podemos identificar cada emoción con un color de tal manera que cada cara del EmocioDado muestra el color y la emoción simultáneamente. 
 
 
-4. NIVEL EDUCATIVO
+## NIVEL EDUCATIVO
 
 El EmocioDado es para iniciar el trabajo en emociones aunque requiere ciertas destrezas informáticas. Por ello, lo situamos a partir de 3º E.P.
 Además, pensamos que el EmocioDado, se puede modificar para adaptarlo a niveles de Secundaria.
 
 
-5. MATERIALES
+## MATERIALES
 
 
 Digitales: Movil, plantilla, programa libre GIMP e internet.
 No digitales:  impresora, papel de alto gramaje (120gr).
 
 
-6. EVALUACIÓN
+## EVALUACIÓN
 
 Evaluamos varios aspectos:
 
@@ -72,7 +72,7 @@ Evaluamos varios aspectos:
 	- Introducción de vocabulario emocional (me siento triste, enfadado, etc.)
 	- Interacciones entre el alumnado en función de las emociones expresadas por los compañeros y compañeras.
 
-Evaluación de la Unidad Didátcica (escala Likert 0-5)
+Evaluación de la Unidad Didáctica (escala Likert 0-5)
 
 	Utilidad encontrada para el desarrollo de la competencia socioemocional del alumnado.
 	Utilidad encontrada, por el profesorado, para el desarrollo de las dinámicas de clase.
@@ -80,7 +80,7 @@ Evaluación de la Unidad Didátcica (escala Likert 0-5)
 	Adecuación de la secuenciación del proceso a seguir.
 
 
-7. WEBGRAFÍA
+## WEBGRAFÍA
 
 Wikipedia:
 
