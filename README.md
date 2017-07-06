@@ -61,30 +61,32 @@ No digitales:  impresora, papel de alto gramaje (120gr).
 Evaluamos varios aspectos:
 
 * Adquisión de destrezas tecnológicas.
-- Uso del móvil
-- Uso de Internet
-- Uso del Sistema Operativo (Manejo de Archivos y Carpetas)
-- Uso de software Libre (Edición de Imágenes Gimp)
-	- Edición Fotográfica (recortar la imagen, colorearla, etc.)
-	- Trabajo con Capas
+	- Uso del móvil
+	- Uso de Internet
+	- Uso del Sistema Operativo (Manejo de Archivos y Carpetas)
+	- Uso de software Libre (Edición de Imágenes Gimp)
+		- Edición Fotográfica (recortar la imagen, colorearla, etc.)
+		- Trabajo con Capas
 
 * Conceptos emocionales:
-- Introducción de vocabulario emocional (me siento triste, enfadado, etc.)
-- Interacciones entre el alumnado en función de las emociones expresadas por los compañeros y compañeras.
+	- Introducción de vocabulario emocional (me siento triste, enfadado, etc.)
+	- Interacciones entre el alumnado en función de las emociones expresadas por los compañeros y compañeras.
 
-Evaluación de la Unidad Didátcica (escala Lickert 0-5)
-Utilidad encontrada para el desarrollo de la competencia socioemocional del alumnado.
-Utilidad encontrada, por el profesorado, para el desarrollo de las dinámicas de clase.
-Adecuación de la unidad Didáctica a las edades sugeridas.
-Adecuación de la secuenciación del proceso a seguir.
+Evaluación de la Unidad Didátcica (escala Likert 0-5)
+
+	Utilidad encontrada para el desarrollo de la competencia socioemocional del alumnado.
+	Utilidad encontrada, por el profesorado, para el desarrollo de las dinámicas de clase.
+	Adecuación de la unidad Didáctica a las edades sugeridas.
+	Adecuación de la secuenciación del proceso a seguir.
 
 
-7. WEBGRAFÍA.
+7. WEBGRAFÍA
+
 Wikipedia:
-- Emociones: https://es.wikipedia.org/wiki/Emoci%C3%B3n
-- Expresión facial de las emociones: https://es.wikipedia.org/wiki/Expresi%C3%B3n_facial
-- Paul Ekman: https://es.wikipedia.org/wiki/Paul_Ekman#Clasificaci.C3.B3n_de_las_emociones
+	- Emociones: https://es.wikipedia.org/wiki/Emoci%C3%B3n
+	- Expresión facial de las emociones: https://es.wikipedia.org/wiki/Expresi%C3%B3n_facial
+	- Paul Ekman: https://es.wikipedia.org/wiki/Paul_Ekman#Clasificaci.C3.B3n_de_las_emociones
 
 Para profundizar más:
-Trabajar con la película de Disney "Inside Out"
-- Emocionario (Editorial "Palabras Aladas") 
+	- Trabajar con la película de Disney "Inside Out"
+	- Emocionario (Editorial "Palabras Aladas") 
