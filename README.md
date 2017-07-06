@@ -2,9 +2,9 @@
 Cubo de las emociones
 
 
-EMOCIONDADO. CUBO DE LAS EMOCIONES.
+## EMOCIODADO - CUBO DE LAS EMOCIONES
 
-1. INTROUDCCIÓN
+1. INTRODUCCIÓN
 
 La sociedad actual, mas que en cualquier época, exige una eduacción integral de los futuros ciudadanos y ciudadanas.
 Así, el sistema eduacativo pretende formar de manera integral a su alumnado. Muchos aspectos de esta educación estan asegurados en nuestro sistema aunque otros, como la competencia socioemocional, no estan del todo sistematizados e integrados en la educación que recibe el alumnado.
@@ -49,14 +49,14 @@ El EmocioDado es para iniciar el trabajo en emociones aunque requiere ciertas de
 Además, pensamos que el EmocioDado, se puede modificar para adaptarlo a niveles de Secundaria.
 
 
-5. MATERIALES.
+5. MATERIALES
 
 
 Digitales: Movil, plantilla, programa libre GIMP e internet.
 No digitales:  impresora, papel de alto gramaje (120gr).
 
 
-6. EVALUACIÓN.
+6. EVALUACIÓN
 
 Evaluamos varios aspectos:
 
